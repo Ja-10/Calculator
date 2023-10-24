@@ -1,2 +1,2 @@
 # Calculator
-This calculator program was designed using HTML,CSS and JavaScript.
+A simple calculator designed using HTML,CSS and JavaScript.
